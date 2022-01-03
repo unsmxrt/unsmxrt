@@ -14,7 +14,7 @@
 ### currently learning java, kotlin and js
 
 ### Links:
-- discord: поп ит#2018
+- discord: angles#2160
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unsmxrt&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
